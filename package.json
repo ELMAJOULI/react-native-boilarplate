@@ -1,0 +1,8 @@
+{
+  "name": "xhub-boilarplate",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "https://github.com/ELMAJOULI/react-native-boilarplate.git",
+  "author": "Abdelwahed ELAMJOULI <aelmajouli@gmail.com>",
+  "license": "MIT"
+}
